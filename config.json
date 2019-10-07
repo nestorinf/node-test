@@ -1,0 +1,11 @@
+{
+    "mongo": {
+        "HOST": "a",
+        "DB"  : "",
+        "USER": "",
+        "PASS": "",
+        "PORT": "",
+        "URI" : "mongodb://ugsxkrzywt1joy7n2cj3:a0YXK2UnrERtj1qsWEUG@bodpfdwvazeioyn-mongodb.services.clever-cloud.com:27017/bodpfdwvazeioyn"
+
+    }
+}
